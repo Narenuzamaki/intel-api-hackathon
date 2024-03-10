@@ -1,4 +1,4 @@
-# intel-api-hackathon
+#TEXT TO IMAGE GENERATION
 Title: "Exploring the Art of Text-to-Image Synthesis with Stable Diffusion and Intel OneAPI"
 
 In the realm of artificial intelligence, the fusion of cutting-edge models like Stable Diffusion with powerful frameworks such as Intel OneAPI has opened new vistas of creativity. Text-to-image synthesis, once a realm of dreams, is now a tangible reality, where words manifest as pixels on a canvas.
